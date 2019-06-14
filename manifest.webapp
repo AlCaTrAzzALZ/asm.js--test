@@ -3,6 +3,7 @@
   "description": "A Really Tiny Unity asm.js Game",
   "launch_path": "/index.html",
   "orientation": [ "landscape-primary" ],
+  "fullscreen": "true",
   "icons": {
     "16": "/icons/icon16x16.png",
     "48": "/icons/icon48x48.png",
